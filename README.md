@@ -1,0 +1,2 @@
+# qiuji
+tradingview
